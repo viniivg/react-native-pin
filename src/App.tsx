@@ -13,7 +13,7 @@ export default function App() {
         alignItems: 'center',
         justifyContent: 'center',
       }}>
-      <PinCode value={value} onChange={setValue} length={5} />
+      <PinCode value={value} onChange={setValue} length={4} />
     </View>
   );
 }

@@ -1,0 +1,14 @@
+# React Native Pin Code
+
+Componente de entrada de código PIN.
+
+## Propriedades
+
+| propriedade | Descrição |
+|--|--|
+| length | Tamanho do código PIN. **Default: 5**. |
+| value | Valor do código. |
+| onChange | Handler que retorna o valor digitado pelo usuário. |
+
+![enter image description here](https://lh3.googleusercontent.com/U3ZYQHSpEGiKvLThdA-wNGn3f6U9Wbwgxc2_rKO4ugD7dPoyWJPdyGoVgn5m2Lys9oingyh-Y-hXkQuXD-ekESlBMOCWQ82hCWuAo2mAz2FI8ZVRFu4YZSJDXFMYq9LZw0jZf-IMP81PTNu5AjkMMNBAiPnJrQPHY-StCA0l-UZn6JH4Z-PaQ_U1KJV-z-rpGjxEmf-AaFe4VeAGLvXyvzjIlTDsp587i0BNS59kJMBndUKJuzaphsLDR8Juq9X66vud1xu9nkIpQRnR2mVNWb5al_PMca5PJ1gyfqOG4Rmiyb9y3Ltkby8rvAEDtd1zxvYB5LYDI8ckElrd_g8aAT1eAP4vFn4ljB6Emrx1dY0PgCXFQYQx6d0TP7_IN7UVW4_OBvgTjCjVwWwnGbUlkDA7rI6_ekN1DnLJ8rPab0oGXOveZU1mvI1SZKALaUpqsI6a4OxYeBTQ7N_tVHqfzz19itdeYXc_bG7kVSa4Ayshif5RDR4bjoInp4kljRzv0KZUnRCYjDWlCcr6VngArYP5kab1iQl50hskdBgq0H6LhYPUjeNX7r9vz0GVFAgAU7j_vj6lki6_mXVzQ-gbdUdZaKFaaCjau4ZTAqX5LgJ88u5xgThfbTV0b_WjttuA3y3Fu5cJrHYPbcsNzd4HeSRBuwDwXnzih92DaHJxSy95Gz33sqO_BEQ6uQgfNR6HDJhq9siTxSpsTwrOP3BLGRP1SixN99yC1ZHx6kIvvnR396TBopEoM9-Jv4caC9k_1CERYNpXc1Q_Nu65raw7cs5HRm2Kzq1c-P6N4EnymuuYmXaABXtC9cD3nMN4y08fc8ElN69Yg3ltuour9b9W-KnYQEXDy05422_orVcT6gU1Y5efGuGE5zJP6xpBunOZYhECBQOoOUU=w662-h1430-no?authuser=0)
+
